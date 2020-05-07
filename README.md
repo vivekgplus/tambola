@@ -3,8 +3,10 @@ Indian Tambola game, bingo
 
 Written in Python, flask
 
-Live demo here
+Live demo here (refresh for new ticket)
 http://vivek1011.pythonanywhere.com/
+
+admin module
 http://vivek1011.pythonanywhere.com/admin
 
 1. server.py is a flask application with end point at / and /admin
